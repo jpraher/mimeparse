@@ -1,0 +1,6 @@
+
+* Origin: http://code.google.com/p/mimeparse/
+
+* Motiviation
+
+Use mimeparse functionality in rebar-ified projects as a dependency.
